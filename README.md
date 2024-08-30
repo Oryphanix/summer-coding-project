@@ -1,7 +1,6 @@
 # Summer Coding Project
 ## App Hub
-Contains Apps:
-
+**Contains Apps:**
 Weather
 
 Calender Events
