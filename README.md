@@ -1,8 +1,13 @@
 # Summer Coding Project
-# App Hub
+## App Hub
 Contains Apps:
+
 Weather
+
 Calender Events
+
 Locker
+
 Movie Reccomender
+
 Subject Viewer
